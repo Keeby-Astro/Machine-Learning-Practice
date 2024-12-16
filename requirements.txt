@@ -1,0 +1,8 @@
+numpy
+matplotlib
+torch
+torchvision
+statistics
+scipy
+pandas
+pytorch_lightning
