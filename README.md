@@ -5,11 +5,6 @@ It serves as a hands-on guide for learners and students for the course Applied M
 
 ---
 
-## Author:
-- Keeby (@Keeby-Astro)
-
----
-
 ## **Table of Contents**
 
 1. [Getting Started](#getting-started)
