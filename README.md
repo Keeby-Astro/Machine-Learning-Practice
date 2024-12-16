@@ -119,7 +119,7 @@ To use the notebooks and scripts in this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Machine-Learning-Practice.git
+   git clone https://github.com/Keeby-Astro/Machine-Learning-Practice.git
    cd Machine-Learning-Practice
    ```
 2. Install the required Python libraries:
@@ -137,7 +137,7 @@ To use the notebooks and scripts in this repository, follow these steps:
 2. Navigate to the desired notebook or script and execute cells to explore the concepts and run code.
 3. For standalone Python scripts, run them directly using:
    ```bash
-   python script_name.py
+   python [name_of_specific_script].py
    ```
 
 ## **License**
