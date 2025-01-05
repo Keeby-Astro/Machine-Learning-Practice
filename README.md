@@ -143,4 +143,4 @@ This project is licensed under the MIT License.
 ### **Acknowledgments**
 Special thanks to:
 - PyTorch developers and the open-source community.
-- Dr. Iman Ghamarian, professor for Applied Machine Learning
+- Dr. Iman Ghamarian, University of Oklahoma professor for Applied Machine Learning
